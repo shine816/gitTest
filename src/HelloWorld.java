@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.println("third commit");
         System.out.println("hot-fix");
         System.out.println("I am master");
+        System.out.println("I am hot fix");
     }
 }
