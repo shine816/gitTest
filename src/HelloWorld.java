@@ -10,5 +10,6 @@ public class HelloWorld {
         System.out.println("hot-fix");
         System.out.println("I am master");
         System.out.println("I am hot fix");
+        System.out.println("I am server");
     }
 }
